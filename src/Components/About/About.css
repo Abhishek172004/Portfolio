@@ -38,6 +38,9 @@
     font-size: 19px;
     font-weight: 400;
 }
+.about-para p{
+    font-size: 19px;
+}
 
 .about-skills{
     display: flex;
